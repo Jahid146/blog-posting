@@ -9,7 +9,7 @@
       {
         "title": "Opening Party",
         "body": "Indexes are routinely used to associate tables with millions of rows with other tables with millions of rows - you would have to have an exceptionally large blog to require denormalization of comments, and even still,/n caching would probably serve you far better than denormalizing the database. ",
-        "author": "yoshi",
+        "author": "Zoshi",
         "id": "2"
       }
     ]
