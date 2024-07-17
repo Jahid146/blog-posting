@@ -3,7 +3,7 @@
       {
         "title": "My First Blog",
         "body": "Every database system you would be using to implement your blog will use indexing. What this means is that, rather than trawling through a large table, your database system maintains a seperate list of comments and which posts they are associated with, much like the index at the back of a book./n This allows the database system to load comments associated with a post extremely quickly, and I don't see any problems with your proposed design for a blog of any size. ",
-        "author": "mario",
+        "author": "Mario",
         "id": "1"
       },
       {
